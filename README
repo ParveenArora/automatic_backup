@@ -7,7 +7,7 @@ How to Use:
 Follow the tutrial to set up ssh loging without password.
 http://parveenarora.in/ssh_without_password
 
-2. You will need to edit the script according to the values of your choice.
+2. You will need to edit backup.sh script according to the values of your choice, you can take use  my_bcakup.sh as refernece to put the values in your main script. 
 
 3. The Use the script in crontab to automate the process.
 Follow this tutorial to run the script using crontab.
